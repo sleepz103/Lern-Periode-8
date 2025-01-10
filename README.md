@@ -6,5 +6,5 @@ In dieser kurzen Zeit möchte ich Python ausprobieren. Und in letzter Zeit bin i
 
 ## 10/01
 
-- [ ] Ein Python für Anfänger schauen, um zu wissen, wie man Variable, Methoden und Klassen erstellt
-- [ ] 
+- [ ] Ein Python für Anfänger Tutorial schauen, um zu wissen, wie man Variable, Methoden und Klassen erstellt
+- [ ] Python tkinter Tutorial schauen, um mit ein Grid zu spielen
