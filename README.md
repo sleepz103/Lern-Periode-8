@@ -6,5 +6,5 @@ In dieser kurzen Zeit möchte ich Python ausprobieren. Und in letzter Zeit bin i
 
 ## 10/01
 
-- [ ] Schau ein Python for beginner (IDE, variables, classes)
+- [ ] Ein Python für Anfänger schauen, um zu wissen, wie man Variable, Methoden und Klassen erstellt
 - [ ] 
