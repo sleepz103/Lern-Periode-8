@@ -13,9 +13,9 @@ Heute habe ich schnell gelernt. Zuerst habe ich entschieden, dass ich in VSC arb
 
 ## 17/01
 
-- [ ] Einen Schreibassistenten installieren, um Befehle schneller zu schreiben und Fehler zu merken. Oder ähnliche Extensions installieren.
+- [x] Einen Schreibassistenten installieren, um Befehle schneller zu schreiben und Fehler zu merken. Oder ähnliche Extensions installieren.
 
-- [ ] Ein graues 3x3 Grid erstellen
+- [x] Ein graues 3x3 Grid erstellen
 
 - [ ] Ein Array von Farben erstellen
 
