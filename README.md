@@ -17,6 +17,6 @@ Heute habe ich schnell gelernt. Zuerst habe ich entschieden, dass ich in VSC arb
 
 - [x] Ein graues 3x3 Grid erstellen
 
-- [ ] Ein Array von Farben erstellen
+- [x] Ein Array von Farben erstellen
 
 - [ ] Auf Click die Farbe von Tile nach Array wächselt
