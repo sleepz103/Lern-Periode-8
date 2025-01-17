@@ -19,4 +19,4 @@ Heute habe ich schnell gelernt. Zuerst habe ich entschieden, dass ich in VSC arb
 
 - [x] Ein Array von Farben erstellen
 
-- [ ] Auf Click die Farbe von Tile nach Array wächselt
+- [x] Auf Click die Farbe von Tile nach Array wächselt
