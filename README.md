@@ -29,6 +29,6 @@ Heute habe ich das Ziel erreicht. Ich habe wieder ein Tutorial zur Tkinter gesch
 
 - [x] Die Buttons sollen entweder rot oder dunkel rot sein, je nach sie On oder Off sind.
 
-- [ ] Grid verkleinern. Es soll auf beiden seiten gleich viel Abstand haben und dann das Spiel in der Mitte.
+- [x] Grid verkleinern. Es soll auf beiden seiten gleich viel Abstand haben und dann das Spiel in der Mitte.
 
 - [ ]  Addiere Koordinaten Eigenschaft zu GameButton Klasse. Sie sollen wissen, wo sie sich befinden. 
