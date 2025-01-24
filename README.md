@@ -31,4 +31,16 @@ Heute habe ich das Ziel erreicht. Ich habe wieder ein Tutorial zur Tkinter gesch
 
 - [x] Grid verkleinern. Es soll auf beiden seiten gleich viel Abstand haben und dann das Spiel in der Mitte.
 
-- [ ]  Addiere Koordinaten Eigenschaft zu GameButton Klasse. Sie sollen wissen, wo sie sich befinden. 
+- [x] Addiere Koordinaten Eigenschaft zu GameButton Klasse. Sie sollen wissen, wo sie sich befinden. 
+
+Heute habe ich meine Ziele schnell erreicht. Zuerst habe ich ein neues Tutorial zum Python Klassen angeschaut. Ich fand der Unterschied zwischen Python und C# Klassen verwirrend. Aber dann habe ich es besser verstanden, und konnte ich neue Attribute zur Button addieren. Dann habe ich Grid in ein Frame verschoben, um nun das Spiel anzupassen. Gegen ende habe ich noch gitignore hinzugefügt und am Ende habe ich noch Problem gehabt, da ich nicht wusste, in welche init soll ich die neue Koordinaten  hinzufügen, da hat chatGPT geholfen. (87)
+
+## 31/01
+
+- [ ] Mit einem Druck werden die benachbarten Buttons umgeschaltet
+
+- [ ] Links kann man mit Buttons entscheiden, wie gross das Grid sein soll
+
+- [ ] Grid wird nach Grösse erstellt mit zufällig umgeschalteten Buttons
+
+- [ ] Wenn sich alle Buttons in IsTurnedOn = True befinden, wird das Spiel beendet
