@@ -1,17 +1,18 @@
 import tkinter as tkinter
-import random
 
 colors = ("red", "green", "blue", "orange", "purple")
 
 class GameButton(tkinter.Button):
-    def __init__(self, *args, **kwargs):
+    def __init__(self, x_pos, y_pos, *args, **kwargs):
         kwargs["background"] = kwargs.get("background", "black")
         kwargs["activebackground"] = kwargs.get("activebackground", "black")
         super().__init__(*args, **kwargs)
         self.config(command=self.click)
         self.color = "black"
         self.is_active = False
-
+        self.x_pos = x_pos
+        self.y_pos = y_pos
+        self.config(text = "{}x,{}y".format(self.x_pos,self.y_pos))
         
     def get_color(self):
         return self.color
