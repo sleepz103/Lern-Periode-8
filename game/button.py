@@ -5,6 +5,8 @@ colors = ("red", "green", "blue", "orange", "purple")
 
 class GameButton(tkinter.Button):
     def __init__(self, *args, **kwargs):
+        kwargs["background"] = kwargs.get("background", "black")
+        kwargs["activebackground"] = kwargs.get("activebackground", "black")
         super().__init__(*args, **kwargs)
         self.config(command=self.click)
         self.color = "black"
