@@ -25,10 +25,10 @@ Heute habe ich das Ziel erreicht. Ich habe wieder ein Tutorial zur Tkinter gesch
 
 ## 24/01
 
-- [ ] Die Buttons sollen eine Eigenschaft haben IsTurnedOn : bool
+- [x] Die Buttons sollen eine Eigenschaft haben IsTurnedOn : bool
 
-- [ ] Die Buttons sollen entweder rot oder dunkel rot sein, je nach sie On oder Off sind.
+- [x] Die Buttons sollen entweder rot oder dunkel rot sein, je nach sie On oder Off sind.
 
 - [ ] Grid verkleinern. Es soll auf beiden seiten gleich viel Abstand haben und dann das Spiel in der Mitte.
 
-- [ ] - [ ] Addiere Koordinaten Eigenschaft zu GameButton Klasse. Sie sollen wissen, wo sie sich befinden. 
+- [ ]  Addiere Koordinaten Eigenschaft zu GameButton Klasse. Sie sollen wissen, wo sie sich befinden. 
