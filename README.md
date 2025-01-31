@@ -2,7 +2,7 @@
 
 # Lights out
 
-GIF here
+<img title="gameplay" src="./gameplay.gif" alt="gameplay">
 
 # Grobplanung
 
