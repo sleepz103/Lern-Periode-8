@@ -11,7 +11,6 @@ class GameButton(tkinter.Button):
         self.x_pos = x_pos
         self.y_pos = y_pos
         self.gameCells = gameCells
-        self.config(text = "{}x,{}y".format(self.x_pos,self.y_pos))
         
     def get_color(self):
         return self.color

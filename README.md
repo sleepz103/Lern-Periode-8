@@ -49,8 +49,4 @@ Heute habe ich meine Ziele schnell erreicht. Zuerst habe ich ein neues Tutorial 
 
 - [ ] Wenn sich alle Buttons in IsTurnedOn = True befinden, wird das Spiel beendet
 
-
-
-
-
 # Reflexion
