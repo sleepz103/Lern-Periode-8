@@ -1,7 +1,5 @@
 import tkinter as tkinter
 
-colors = ("red", "green", "blue", "orange", "purple")
-
 class GameButton(tkinter.Button):
     def __init__(self, x_pos, y_pos, *args, **kwargs):
         kwargs["background"] = kwargs.get("background", "black")
