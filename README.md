@@ -4,6 +4,8 @@
 
 <img title="gameplay" src="./gameplay.gif" alt="gameplay">
 
+Ein kleines Spiel, wo das Ziel ist, alle Feldern auszuschalten.
+
 # Grobplanung
 
 In dieser kurzen Zeit möchte ich Python ausprobieren. Und in letzter Zeit bin ich von dem Spiel "Lights Out" fasziniert. Ich möchte ein solches Spiel mit Python auf einem Grid erstellen. 
@@ -48,5 +50,7 @@ Heute habe ich meine Ziele schnell erreicht. Zuerst habe ich ein neues Tutorial 
 - [ ] Grid wird nach Grösse erstellt mit zufällig umgeschalteten Buttons
 
 - [ ] Wenn sich alle Buttons in IsTurnedOn = True befinden, wird das Spiel beendet
+
+Heute habe ich lange gearbeitet. Zuerst habe ich mich gefragt, wie kann ich global Koordinaten jeder Button stellen kann. In Python gibt es Dictionaries. Und sie können zwei Werte als Key haben also habe ich Dictionaries benutzt. Dann ist grösseres als ich gedacht habe Problem vorgekommen. Ich wollte mit einfacheren Buttons über die Grosse des Spielfelds verwalten. Schlüssendlich aber habe ich das ganze spiel in eine Klasse verschoben. Daraus habe ich wieder mit OOP gearbeitet und fühle mich sicherer mit Python. Heute konnte ich nicht alles umsetzen, da ich nachgelesen habe, dass das Spiel noch schlaue mathematik braucht, die ich noch wenig verstehe. (103)
 
 # Reflexion
