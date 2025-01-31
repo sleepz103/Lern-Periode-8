@@ -1,5 +1,9 @@
 # Lern-Periode-8
 
+# Lights out
+
+GIF here
+
 # Grobplanung
 
 In dieser kurzen Zeit möchte ich Python ausprobieren. Und in letzter Zeit bin ich von dem Spiel "Lights Out" fasziniert. Ich möchte ein solches Spiel mit Python auf einem Grid erstellen. 
@@ -44,3 +48,9 @@ Heute habe ich meine Ziele schnell erreicht. Zuerst habe ich ein neues Tutorial 
 - [ ] Grid wird nach Grösse erstellt mit zufällig umgeschalteten Buttons
 
 - [ ] Wenn sich alle Buttons in IsTurnedOn = True befinden, wird das Spiel beendet
+
+
+
+
+
+# Reflexion
