@@ -1,6 +1,7 @@
 import tkinter as tkinter
 from tkinter import *
 from button import GameButton
+from Game import Game
 # create game window
 window = tkinter.Tk()
 window.title("Lights out")
@@ -12,25 +13,19 @@ window.grid_columnconfigure(0, weight= 1)
 window.grid_columnconfigure(1, weight=2)
 window.grid_columnconfigure(2, weight= 1)
 
+# game size buttons
+controlPanel = tkinter.Frame(window)
+controlPanel.grid(row=0, column=0,sticky="nesw")
 
-# create game in middle cell
-gameBox = Frame(window)
-gameBox.grid(row=0,column=1,sticky="nesw")
-gridSize = 5
-gridDict = {}
+def set_grid_size(size):
+    global game
+    game.grid_size = size
+    game.generate_grid()
 
-for i in range(gridSize):
-    gameBox.grid_rowconfigure(i, weight=1)
-    gameBox.grid_columnconfigure(i, weight=1)
 
-buttons = []
-for row in range(gridSize):
-    row_buttons = []
-    for col in range(gridSize):
-        gameButton = GameButton(row, col, gridDict, gameBox)
-        gameButton.grid(row=row, column=col, sticky='nesw')
-        row_buttons.append(gameButton)
-        gridDict[(row, col)] = gameButton
-    buttons.append(row_buttons)
+tkinter.Button(controlPanel, text="3x3", command=lambda: set_grid_size(3)).pack(fill="x")  # Button for 3x3 grid
+tkinter.Button(controlPanel, text="5x5", command=lambda: set_grid_size(5)).pack(fill="x")  # Button for 5x5 grid
+
+game = Game(window)
     
 window.mainloop()
