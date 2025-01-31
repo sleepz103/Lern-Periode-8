@@ -43,7 +43,7 @@ Heute habe ich meine Ziele schnell erreicht. Zuerst habe ich ein neues Tutorial 
 
 - [x] Mit einem Druck werden die benachbarten Buttons umgeschaltet
 
-- [ ] Links kann man mit Buttons entscheiden, wie gross das Grid sein soll
+- [x] Links kann man mit Buttons entscheiden, wie gross das Grid sein soll
 
 - [ ] Grid wird nach Grösse erstellt mit zufällig umgeschalteten Buttons
 
